@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jonathan-Dev-Unity
 - 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning alot about Unity Scripting and Rendering
-- 💞️ I’m looking to collaborate on a Survival Game
 - 📫 How to reach me via Github
 
 <!---
